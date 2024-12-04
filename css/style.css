@@ -1,0 +1,27 @@
+     body {
+    background-image: url("https://suret.pics/uploads/posts/2023-09/1695199121_2-10.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index: 1;
+    }
+
+    body {
+        margin: 0;
+        height: 100vh;
+        position: relative;
+    }
+
+    .ball img {
+        position: absolute;
+        transition: 0.3s ease;
+    } 
+
+
+
+
+/* 3 */
+
+
+/* .wrapper {
+    margin-top: 250px;
+} */
